@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top Face of Isometric 3D Studio Cube / Hard Surface -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,28 L78,41 L54,54 L30,41 Z" />
+    <!-- Left Face with subtle metallic shadow -->
+    <path
+        android:fillColor="#00A0B2"
+        android:pathData="M30,41 L54,54 L54,80 L30,67 Z" />
+    <!-- Right Face with deep contrast -->
+    <path
+        android:fillColor="#00778A"
+        android:pathData="M54,54 L78,41 L78,67 L54,80 Z" />
+    <!-- Center coordinate apex and automotive vertex accent -->
+    <path
+        android:fillColor="#FF9500"
+        android:pathData="M54,48 L62,54 L54,60 L46,54 Z" />
+    <!-- Coordinate Axis Indicators -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF3B30"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L76,66" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#34C759"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L54,28" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L32,66" />
+</vector>

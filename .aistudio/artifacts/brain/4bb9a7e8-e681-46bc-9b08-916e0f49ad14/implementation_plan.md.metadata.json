@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Phase 1 of Apex3D Automotive & Hard-Surface Studio for Android, detailing OpenGL ES 3.0 viewport architecture, scene graph, transform gizmos, gesture navigation, command history, and project persistence.",
+  "updatedAt":  "2026-10-28T11:58:37.283308007Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Apex3D",
+  "description": "High-performance 3D hard-surface and automotive design studio with OpenGL ES 3.0 viewport, gizmos, scene outliner, and project persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
